@@ -5,6 +5,6 @@
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.0.2"
   },
-  "author": "Kirill Stepushkin",
+  "author": "Avaturn",
   "description": "Avaturn Installer package. Install all needed packages."
 }

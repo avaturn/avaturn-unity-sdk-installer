@@ -26,7 +26,7 @@ namespace Avaturn.Base.Editor
                 name = "com.avaturn.base",
                 gitUrl = "https://github.com/gulfick/AvaturnBase.git",
                 branch = "",
-                version = "0.0.0"
+                version = "0.0.1"
             },
             new ModuleInfo
             {
