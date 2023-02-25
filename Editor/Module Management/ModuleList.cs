@@ -30,13 +30,6 @@ namespace Avaturn.Base.Editor
             },
             new ModuleInfo
             {
-                name = "com.avaturn.third_person",
-                gitUrl = "https://github.com/Gulfick/AvaturnThirdPerson.git",
-                branch = "",
-                version = "0.0.0"
-            },
-            new ModuleInfo
-            {
                name = "com.atteneder.draco",
                 gitUrl = "https://github.com/atteneder/DracoUnity.git",
                 branch = "v4.0.2",
