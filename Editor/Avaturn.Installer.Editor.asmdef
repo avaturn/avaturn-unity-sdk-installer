@@ -1,5 +1,5 @@
 {
-    "name": "Avaturn.Base.Editor",
+    "name": "Avaturn.Installer.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [

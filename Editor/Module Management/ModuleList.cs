@@ -23,17 +23,10 @@ namespace Avaturn.Base.Editor
             },
             new ModuleInfo
             {
-                name = "com.avaturn.base",
-                gitUrl = "https://github.com/gulfick/AvaturnBase.git",
+                name = "com.avaturn.core",
+                gitUrl = "https://github.com/avaturn/avaturn-unity-sdk-core.git",
                 branch = "",
-                version = "0.0.3"
-            },
-            new ModuleInfo
-            {
-               name = "com.atteneder.draco",
-                gitUrl = "https://github.com/atteneder/DracoUnity.git",
-                branch = "v4.0.2",
-                version = "4.0.2" 
+                version = "0.1.0"
             }
         };
 
