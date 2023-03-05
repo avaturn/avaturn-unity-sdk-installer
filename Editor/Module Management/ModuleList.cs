@@ -26,7 +26,7 @@ namespace Avaturn.Base.Editor
                 name = "com.avaturn.core",
                 gitUrl = "https://github.com/avaturn/avaturn-unity-sdk-core.git",
                 branch = "",
-                version = "0.1.0"
+                version = "0.1.1"
             }
         };
 
