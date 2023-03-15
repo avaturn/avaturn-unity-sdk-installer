@@ -16,7 +16,7 @@ namespace Avaturn.Base.Editor
         {
             new ModuleInfo
             {
-                name = "com.avaturn.gltfast",
+                name = "com.attender.gltfast",
                 gitUrl = "https://github.com/avaturn/glTFast.git",
                 branch = "",
                 version = "5.0.1"
