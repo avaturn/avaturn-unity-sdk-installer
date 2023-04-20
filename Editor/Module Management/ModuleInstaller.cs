@@ -178,10 +178,6 @@ namespace Avaturn.Base.Editor
                 AssetDatabase.Refresh();
                 CompilationPipeline.RequestScriptCompilation();
             }
-            else
-            {
-                Debug.LogError("FAILED MODULES INSTALL");
-            }
         }
     }
 }
