@@ -1,7 +1,7 @@
 {
   "name": "com.avaturn.installer",
   "displayName": "AvaturnInstaller",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.0.2"
   },
