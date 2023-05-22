@@ -19,14 +19,14 @@ namespace Avaturn.Base.Editor
                 name = "com.attender.gltfast",
                 gitUrl = "https://github.com/avaturn/glTFast.git",
                 branch = "",
-                version = "5.0.2"
+                version = "5.0.5"
             },
             new ModuleInfo
             {
                 name = "com.avaturn.core",
                 gitUrl = "https://github.com/avaturn/avaturn-unity-sdk-core.git",
                 branch = "",
-                version = "0.2.2"
+                version = "0.3.0"
             }
         };
 
